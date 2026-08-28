@@ -31,6 +31,5 @@
             </tr>
         </tbody>
     </table>
-    <script src="Boodschappenlijst.js"></script>
 </body>
 </html>
